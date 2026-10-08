@@ -1,6 +1,6 @@
 ---
 title: Руководства пользователя
-weight: 10
+weight: 20
 params:
   bookFlatSection: true
   bookIcon: edit

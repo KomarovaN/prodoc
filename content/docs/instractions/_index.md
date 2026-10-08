@@ -1,6 +1,6 @@
 ---
 title: Инструкции
-weight: 20
+weight: 30
 params:
   bookFlatSection: true
   bookIcon: edit
