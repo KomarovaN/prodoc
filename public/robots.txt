@@ -1,0 +1,14 @@
+Документация Prodoc
+
+- ЦП ПП «ПАСПЕР»: http://localhost:1313/docs/
+- Руководства пользователя: http://localhost:1313/docs/user-guide/
+- Менеджер Росавтотранса: http://localhost:1313/docs/user-guide/manager/
+- Руководитель Росавтотранса: http://localhost:1313/docs/user-guide/director/
+- Сотрудник Минтранса: http://localhost:1313/docs/user-guide/mintrans/
+- Сотрудник Ространснадзора: http://localhost:1313/docs/user-guide/rostransnadzor/
+- Сотрудник УИО субъекта РФ: http://localhost:1313/docs/user-guide/region/
+- Инструкция по работе с заявдениями: http://localhost:1313/docs/instractions/instraction-for-statements/
+- Инструкция по работе с письмами: http://localhost:1313/docs/instractions/instraction-for-letters/
+- Инструкция по работе с бланками: http://localhost:1313/docs/instractions/instraction-for-blanks/
+
+

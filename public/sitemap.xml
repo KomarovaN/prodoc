@@ -2,39 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/instractions/statements/instraction-for-statements/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/user-guide/manager/manager/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/instractions/statements/</loc>
+    <loc>http://localhost:1313/docs/instractions/instraction-for-statements/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/user-guide/manager/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/user-guide/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/instractions/letters/instraction-for-letters/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/user-guide/director/director/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/instractions/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/instractions/letters/</loc>
+    <loc>http://localhost:1313/docs/instractions/instraction-for-letters/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/user-guide/director/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/instractions/blanks/instraction-for-blanks/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/user-guide/mintrans/mintrans/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/instractions/blanks/</loc>
+    <loc>http://localhost:1313/docs/instractions/instraction-for-blanks/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/user-guide/mintrans/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/user-guide/roskomnadzor/roskomnadzor/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/user-guide/roskomnadzor/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/user-guide/region/region/</loc>
+    <loc>http://localhost:1313/docs/user-guide/rostransnadzor/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/user-guide/region/</loc>
   </url><url>
