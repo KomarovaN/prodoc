@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 locale = 'ru-RU'
 title = 'Документация Prodoc'
 theme = 'hugo-book'
