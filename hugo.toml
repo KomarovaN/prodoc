@@ -1,5 +1,5 @@
-baseURL = '/'
+baseURL = 'https://gitverse.ru/NadezhdaVaKomarova/prodoc'
 locale = 'ru-RU'
-title = 'Документация Prodoc'
+title = 'ЦП ПП ПАСПЕР'
 theme = 'hugo-book'
-enableRobotsTXT = true
+enableRobotsTXT = false
