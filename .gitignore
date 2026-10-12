@@ -1,1 +1,1 @@
-echo "/.github" > .gitignore
+echo "/public" > .gitignore
