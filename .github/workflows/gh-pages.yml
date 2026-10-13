@@ -1,17 +1,22 @@
-name: GitHub Pages
+name: Deploy static site to GitHub Pages
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+      contents: read # Разрешает читать содержимое репозитория.
+      pages: write # Разрешает публикацию GitHub Pages.
+      id-token: write # Нужно для подтверждения публикации Pages.
+
+concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
